@@ -21,3 +21,6 @@ lerna-debug.log*
 node_modules
 package-lock.json
 yarn.lock
+
+.cursor/
+selected_apps.json
